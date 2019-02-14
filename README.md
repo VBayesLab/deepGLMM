@@ -2,9 +2,9 @@
 Version 0.0.0.9000<br/>
 
 ## Introduction
-DeepGLM is a flexible model that use Deep Feedforward Neuron Network as the basis function for Generalized Linear Model. DeepGLM is designed to work with Cross-Sectional Dataset such as real estate data, cencus data, etc. <br/>
+DeepGLMM is a flexible model that use Deep Feedforward Neuron Network as the basis function for Generalized Linear Mixed Model. DeepGLMM is designed to work with panel data. <br/>
 
-For more information about DeepGLM, please read the paper: Minh-Ngoc Tran,Nghia Nguyen, David J. Nott and Robert Kohn (2018)  Bayesian Deep Net GLM and GLMM https://arxiv.org/abs/1805.10157
+For more information about DeepGLMM, please refer to the paper: Minh-Ngoc Tran,Nghia Nguyen, David J. Nott and Robert Kohn (2018)  Bayesian Deep Net GLM and GLMM https://arxiv.org/abs/1805.10157
 
 ## Authors
 Nghia Nguyen (nghia.nguyen@sydney.edu.au) <br/>
