@@ -1,4 +1,4 @@
-# DeepGLM
+# DeepGLMM
 Version 0.0.0.9000<br/>
 
 ## Introduction
@@ -10,8 +10,6 @@ For more information about DeepGLMM, please refer to the paper: Minh-Ngoc Tran,N
 Nghia Nguyen (nghia.nguyen@sydney.edu.au) <br/>
 Minh-Ngoc Tran (minh-ngoc.tran@sydney.edu.au)
 
-## Usage
-Users can choose either Matlab, R or Python version to train and make prediction with deepGLM.
 ### MATLAB Version
 To use the Toolbox, add the folder called "deepGLM" (with Subfolders) to the MATLAB path.
 
